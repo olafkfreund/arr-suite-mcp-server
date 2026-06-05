@@ -7,6 +7,7 @@ metadata:
   name: arr-suite-mcp-server
   description: "MCP Server for Plex + the *arr suite of media server tools "
   annotations:
+    backstage.io/techdocs-ref: dir:.
     github.com/project-slug: olafkfreund/arr-suite-mcp-server
   tags: []
 spec:
